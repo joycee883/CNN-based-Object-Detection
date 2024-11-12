@@ -1,5 +1,5 @@
 # 🚶‍♂️ Pedestrian and Car Detection Using OpenCV 🚗 <br>
-**`**Welcome to the Pedestrian and Car Detection project!**`** <br>
+**`Welcome to the Pedestrian and Car Detection project!`** <br>
 This repository showcases real-time detection of pedestrians and cars using OpenCV's Haar Cascade classifiers. <br>
 Dive in to explore how we bring computer vision to life! 🌟 <br>
 
