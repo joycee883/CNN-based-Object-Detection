@@ -31,9 +31,9 @@ Whether it's for traffic monitoring, security systems, or just for fun, this pro
 ### 🛠️ Tools Used 🧰 <br>
 
 * Programming Language: Python 🐍 <br>
-* Libraries: <br>
-  * OpenCV: For image processing 📷 <br>
-  * NumPy: For handling image data 📊 <br>
+* **`Libraries:**` <br>
+  * **`OpenCV: For image processing 📷**` <br>
+  * **`NumPy: For handling image data 📊**` <br>
 
 ### 🎯 Key Results 📊 <br>
 
